@@ -1,0 +1,14 @@
+{
+  "name": "webpack4",
+  "version": "1.0.0",
+  "dependencies": {
+    "webpack": "4"
+  },
+  "description": "My webpack project",
+  "scripts": {
+    "start": "VERSION=4 node ../runWebpack.js"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.0.0"
+  }
+}
